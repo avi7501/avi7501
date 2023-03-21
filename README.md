@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on React Js<br>👯 I’m looking to collaborate on React Web Projects<br>🤝 I’m looking for help with Three Js<br>🌱 I’m currently learning React Three Fiber<br>💬 Ask me about UI/UX<br>⚡ Fun fact  I am an otaku
 
+<a  href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/avi7501/avi7501/blob/main/devcard.svg" width="400" alt="Avinash Muralidharan's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-muralidharan-75b1a9226) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AvinashMurali77) 
