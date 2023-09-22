@@ -1,6 +1,11 @@
-<img src="./devcard.svg" alt="Avinash Muralidharan's Dev Card" style="width:24rem"/>
-# 💫 About Me:
+<table>
+<td>  <h1> 💫 About Me: </h1>
 🔭 I’m currently working on React Js and Next Js<br>👯 I’m looking to collaborate on React Web Projects<br>🤝 I’m looking for help with Three Js<br>🌱 I’m currently learning React Three Fiber<br>💬 Ask me about UI/UX<br>
+</td>
+  <td><img src="./devcard.svg" alt="Avinash Muralidharan's Dev Card" style="width:24rem;"/></td>
+  
+</table>
+
 
 
 ## 🌐 Socials:
