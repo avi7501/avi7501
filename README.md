@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=avi7501&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img src="assets/devcard.png"/>
+<img src="assets/devcard.svg"/>
