@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 60%;">
       <h2>💫 About Me:</h2>
       <p>
         🔭 I’m currently working on native iOS development<br>
@@ -20,9 +20,9 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 40%;">
       <h3>🃏 DevCard</h3>
-      <img src="assets/devcard.svg" alt="DevCard" style="width: 100%; max-height: 50vw; object-fit: contain;" />
+      <img src="assets/devcard.svg" alt="DevCard" style="width: 100%; height: 500px; object-fit: contain;" />
     </td>
   </tr>
 </table>
