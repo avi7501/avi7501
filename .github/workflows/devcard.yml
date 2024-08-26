@@ -18,7 +18,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          type: wide
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          type: wide
           commit_filename: assets/devcard.svg
           commit_message: "chore: update ${filename}"
