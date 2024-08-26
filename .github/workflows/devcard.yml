@@ -20,5 +20,5 @@ jobs:
         with:
           type: wide
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_filename: assets/devcard.png
+          commit_filename: assets/devcard.svg
           commit_message: "chore: update ${filename}"
